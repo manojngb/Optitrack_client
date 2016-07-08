@@ -7,6 +7,7 @@ Prints Frame number, position and rotation of rigid body
 Assumption: 
 1. Client/Server PC are different.
 2. Rigid body is already defined in Motive PC.
+3. Python 3
 
 No installation of any package required. 
 Just change the following  in NatNetClient according to the LAN and motive configuration
